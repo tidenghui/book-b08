@@ -1,0 +1,50 @@
+[
+  {
+    "key": "在场人数",
+    "value": "6",
+    "unit": "人",
+    "fromChapter": 1
+  },
+  {
+    "key": "剩余天数",
+    "value": "6",
+    "unit": "天",
+    "fromChapter": 1
+  },
+  {
+    "key": "订单尾号",
+    "value": "7341",
+    "unit": "",
+    "fromChapter": 1
+  },
+  {
+    "key": "时间",
+    "value": "21:50",
+    "unit": "",
+    "fromChapter": 1
+  },
+  {
+    "key": "在场人数",
+    "value": "6",
+    "unit": "人",
+    "fromChapter": 2
+  },
+  {
+    "key": "距天亮",
+    "value": "7小时37分",
+    "unit": "时间",
+    "fromChapter": 2
+  },
+  {
+    "key": "车费",
+    "value": "800",
+    "unit": "元",
+    "fromChapter": 2
+  },
+  {
+    "key": "老赵老伴手术倒计时",
+    "value": "5",
+    "unit": "天",
+    "fromChapter": 2
+  }
+]

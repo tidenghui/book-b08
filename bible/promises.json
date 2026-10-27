@@ -1,0 +1,26 @@
+[
+  {
+    "id": "g1-1",
+    "text": "老赵反复追问后备箱是否锁好，车尾是否藏有东西或人。",
+    "plantedAt": 1,
+    "dueBy": 8,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g1-2",
+    "text": "周敏看见有人拖很长东西，拖的是什么、拖往哪里。",
+    "plantedAt": 1,
+    "dueBy": 10,
+    "paidAt": null,
+    "importance": 1
+  },
+  {
+    "id": "g2-1",
+    "text": "程远注意到后备箱键，决定查清老赵说的车尾'沉'，后备箱里到底装了什么。",
+    "plantedAt": 2,
+    "dueBy": 12,
+    "paidAt": null,
+    "importance": 2
+  }
+]
